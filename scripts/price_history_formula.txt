@@ -1,0 +1,1 @@
+=CONCATENATE("insert into backtest.price_history (txn_date, open, high, low, close, volume, adj_close, ticker) values ('",TEXT(A2,"yyyy-mm-dd"), "', ", B2, ", ", C2, ", ", D2, ", ", E2, ", ", F2, ", ", G2, ", '", H2, "');")
