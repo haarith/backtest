@@ -10,3 +10,11 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+backtest-gradle-project/.gradle
+backtest-gradle-project/.settings
+backtest-gradle-project/bin
+*.classpath
+*.project
+*.csv
+*.xls*
+*.sql
